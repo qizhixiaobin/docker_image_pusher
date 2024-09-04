@@ -1,1 +1,7 @@
-
+mysql:8.4.2
+elasticsearch:7.17.23
+kibana:7.17.23
+rabbitmq:3.13.7
+redis:7.4.0
+chinayin/xxl-job-admin:2.4
+nginx:1.27.1
